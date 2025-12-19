@@ -1,6 +1,6 @@
 # Power BI Data Visualization Project (Interactive Dashboard)
 
-This project demonstrates how Power BI can be used to clean, transform, model, and visualize data for business insights. It was created as part of my Data Visualization with Power BI course.
+This project demonstrates how Power BI can be used to clean, transform, model, and visualize data for business insights. It was created as part of my Data Visualization with Power BI learning journey.
 
 ## 📊 Video Presentation
 The video explanation link is included in the **PowerBI_Project_Presentation.pptx** file.
