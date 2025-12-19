@@ -1,6 +1,6 @@
 # SQL Data Analysis Project (Walmart Sales Analysis)
 
-This project demonstrates how SQL can be used to analyze real-world retail sales data and extract meaningful business insights. It was created as part of my SQL Project for Data Analysis and Insights learning journey.
+This project demonstrates how SQL can be used to analyze real-world retail sales data and extract meaningful business insights. It was created as part of my SQL Project for Data Science learning journey.
 
 ## 📊 Video Presentation
 The video explanation link is included in the **Module_4 Project.pptx** file.
