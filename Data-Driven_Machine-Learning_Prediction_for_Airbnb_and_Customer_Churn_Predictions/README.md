@@ -60,6 +60,3 @@ The video explanation link is included in the **Module 6(b)_Project.ipynb** file
 - Scikit-Learn  
 - XGBoost  
 - Jupyter Notebook  
-
-
-### ⭐ Feel free to explore the notebooks and suggestions are always welcome!
